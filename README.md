@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wkinga
-- 👀 I’m interested in dance
+- 👀 I’m interested in dance and testing
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - roketchat
